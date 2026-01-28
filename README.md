@@ -45,4 +45,3 @@ Students will:
 3. Push changes and open PRs
 4. Interpret GitHub Actions CI results
 5. Debug and fix failing pipelines
-
